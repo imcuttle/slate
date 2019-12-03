@@ -1,3 +1,8 @@
+**slate is updated to more than 0.40, but without fallback document, so I forked it to create 0.40 document**
+
+- **[Document](https://imcuttle.gitbook.io/slate)**
+- **[Example](https://imcuttle.github.io/slate-40-doc/)**
+
 <p align="center">
   <a href="#"><img src="./docs/images/banner.png" /></a>
 </p>
